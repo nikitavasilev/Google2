@@ -73,6 +73,16 @@ a:link, a:visited {
      box-shadow: 0 8px 6px -10px #777;
 }
 
+.search-bar:hover {
+	transition-delay: 0.1s;
+	-moz-box-shadow: 2px 3px 11px 0px #cfcfcf;
+-webkit-box-shadow: 2px 3px 11px 0px #cfcfcf;
+-o-box-shadow: 2px 3px 11px 0px #cfcfcf;
+box-shadow: 2px 3px 11px 0px #cfcfcf;
+filter:progid:DXImageTransform.Microsoft.Shadow(color=#cfcfcf, Direction=146, Strength=11);
+
+}
+
 .middle-button {
 	display: flex;
 	justify-content: center;

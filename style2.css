@@ -76,11 +76,11 @@ a:link, a:visited {
 .search-bar:hover {
 	transition-delay: 0.1s;
 	-moz-box-shadow: 2px 3px 11px 0px #cfcfcf;
--webkit-box-shadow: 2px 3px 11px 0px #cfcfcf;
--o-box-shadow: 2px 3px 11px 0px #cfcfcf;
-box-shadow: 2px 3px 11px 0px #cfcfcf;
-filter:progid:DXImageTransform.Microsoft.Shadow(color=#cfcfcf, Direction=146, Strength=11);
-
+	-webkit-box-shadow: 2px 3px 11px 0px #cfcfcf;
+	-o-box-shadow: 2px 3px 11px 0px #cfcfcf;
+	box-shadow: 2px 3px 11px 0px #cfcfcf;
+	filter:progid:DXImageTransform.Microsoft.Shadow(color=#cfcfcf, Direction=146, Strength=11);
+	transition-delay: 0.5s;
 }
 
 .middle-button {

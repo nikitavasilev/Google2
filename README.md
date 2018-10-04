@@ -3,4 +3,4 @@
 The goal of this project was to recreate the [Google](https://google.com) homepage.
 
 
-Work done by [Nikita](https://github.com/nikitavasilev) & [Ysaline](https://github.com/Ysalien). 
+Work done by [Nikita Vasilev](https://github.com/nikitavasilev) & [Ysaline Macé](https://github.com/Ysalien). 
